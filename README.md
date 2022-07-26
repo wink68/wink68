@@ -1,21 +1,8 @@
-<head>
-  <style>
-   body {
-     background:url('https://user-images.githubusercontent.com/108077414/181125972-faae8f01-b1e4-43c7-a4e6-b65f3d310f88.jpg') left top no-repeat fixed;
-      background-size:cover;
-   }
-    h1 {
-      margin-top:150px;
-      font-size:80px;
-      text-align: center;
-      color:#fff;
-      text-shadow:2px 2px #000;
-    }
-  </style>
-</head>
-<body>
-  <h1>Do it!</h1>
-</body>
+<div align="center">
+  <h1>Nice to Meet Ya! I'm Win K</h1>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwink68&count_bg=%23727476&title_bg=%23FF3333&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
 
 <!--ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssqqqqqqqqqq
 **wink68/wink68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
