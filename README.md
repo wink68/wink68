@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<h2>🔧 Tools 🔧</h2>
+<h3 aline="center">🔧 Tools 🔧</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp 
