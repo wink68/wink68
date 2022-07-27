@@ -12,27 +12,59 @@
 
 <h3>📚 Tech Studying 📚</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
-<br>
 
 <h3>🔧 Tools 🔧</h3>
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&Eclipse%20IDE&logoColor=white"/>
 </p>
 <br>
-<hr>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwink68&count_bg=%23727476&title_bg=%23FF3333&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wink68)
 </div>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wink68&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br>
+<hr>
+
+## School & Activity
+ - (2019.03 ~ 2022.02) 고려대학교 정치외교학과 석사(정치사상) 졸업
+ - (2022 ~ ) 웹 개발 공부 (독학 및 스터디)
+<br>
+
+## Interest
+ - Languages
+   - Python
+   - Java
+   - Javascript
+
+ - Problem Solving
+   - [Baekjoon](https://www.acmicpc.net/user/jinttack)
+   - programmers
+   - Codeup
+<br>
+
+## Contacts
+  - [Email](mailto:jinttack@naver.com)
+
+<br>
+<hr>
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwink68&count_bg=%23727476&title_bg=%23FF3333&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wink68)
+</div>
 
 <!--ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssqqqqqqqqqq
 **wink68/wink68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
