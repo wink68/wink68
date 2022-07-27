@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<h3>📚 Tech Studying 📚</h3>
+<h2>📚 Tech Studying 📚</h2>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -20,17 +20,21 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<h3>🔧 Tools 🔧</h3>
+<h2>🔧 Tools 🔧</h2>
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&Eclipse%20IDE&logoColor=white"/>
 </p>
 <br>
-</div>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+<h2>🌈 Follow Me 🌈</h2>
+<p>
+<a href="mailto:jintack@naver.com"><img src="https://img.shields.io/badge/email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinttack@naver.com"/></a>
+</p>
+<br>
+
+<h2>💻 My Github Stats 💻</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wink68&theme=tokyonight&show_icons=true)](https://github.com/wink68)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wink68&langs_count=10&layout=compact&theme=dark)](https://github.com/wink68)
