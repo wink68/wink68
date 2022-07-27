@@ -63,7 +63,7 @@
 <br>
 
 ## 💬 Contacts
-  - [mail](mailto:jinttack@naver.com)
+  - [e-mail](mailto:jinttack@naver.com)
 
 <br>
 <hr>
