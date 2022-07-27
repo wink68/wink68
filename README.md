@@ -33,7 +33,7 @@
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wink68&theme=tokyonight&show_icons=true)](https://github.com/wink68)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wink68&layout=compact)](https://github.com/wink68)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wink68&langs_count=10&layout=compact&theme=dark)](https://github.com/wink68)
 [![trophy](https://github-profile-trophy.vercel.app/?username=wink68&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
