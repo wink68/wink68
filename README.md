@@ -34,11 +34,12 @@
 </p>
 <br>
 
-<h2>💻 My Github Stats 💻</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wink68&theme=tokyonight&show_icons=true)](https://github.com/wink68)
+<h2>💻 My Github Stats and Endeavor 💻</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wink68&theme=tokyonight&show_icons=true)](https://github.com/wink68)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wink68&langs_count=10&layout=compact&theme=dark)](https://github.com/wink68)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinttack)](https://solved.ac/jinttack)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinttack)](https://solved.ac/jinttack)
 [![trophy](https://github-profile-trophy.vercel.app/?username=wink68&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
