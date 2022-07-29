@@ -57,7 +57,9 @@
    - Javascript
 
  - Problem Solving
-   - [Baekjoon](https://www.acmicpc.net/user/jinttack)
+   - [Baekjoon](https://www.acmicpc.net/user/jinttack)   
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinttack)](https://solved.ac/jinttack)
    - programmers
    - Codeup
 <br>
