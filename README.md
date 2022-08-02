@@ -66,6 +66,14 @@
    - Codeup
 <br>
 
+## 📕 Materials studying   
+ - HTML+CSS+Javascript
+   - [HTML+CSS+자바스크립트 웹 표준의 정석](https://www.youtube.com/watch?v=XdFWx0lO5B4&list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is)   
+   
+ - JAVA
+   - [남궁성 자바의 정석](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp)
+<br>
+
 ## 💬 Contacts
   - [e-mail](mailto:jinttack@naver.com)
 
