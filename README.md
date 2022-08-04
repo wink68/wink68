@@ -73,6 +73,9 @@
  - JAVA
    - [Do it! 자바 완전정복](https://www.youtube.com/watch?v=jALoE5BGFls&list=PLG7te9eYUi7toebNnbA1cZNRDoUcHmsGd)
    - [남궁성 자바의 정석](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp)
+   
+ - Python
+   - [Do it! 점푸투 파이썬 (조코딩)](https://www.youtube.com/watch?v=KL1MIuBfWe0&list=PLU9-uwewPMe2AX9o9hFgv-nRvOcBdzvP5)
 <br>
 
 ## 💬 Contacts
