@@ -5,7 +5,8 @@
 
 <p>
   <b>Originally, I majored in political science at Korea University.</b><br>
-  <b>However, I became interested in programming after reading a paper regarding how sociology was analyzed using Python, which is the paper naming Hate Speech against Immigrants in Korea - A Text Mining Analysis of Comments on News about Foreign Migrant Workers and Korean Chinese Residents. </b> 👩‍💻 <br>
+  <b>However, I became interested in programming after reading a paper regarding how sociology was analyzed using Python,</br>
+  <b>which is the paper naming Hate Speech against Immigrants in Korea - A Text Mining Analysis of Comments on News about Foreign Migrant Workers and Korean Chinese Residents. </b> 👩‍💻 <br>
   <b>I thought that I could do more for the public if I learned programming.</b>
   <b>Therefore, I have decided to take on the challenge to become a developer!</b> 🔥
 </p>
