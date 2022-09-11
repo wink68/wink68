@@ -1,7 +1,7 @@
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/108077414/181139588-ff9d400a-a02a-4edd-b811-a28cdc0e09c5.jpg" width="80%" />
 
-# Nice to Meet Ya! I'm Win K 👋
+# Nice to Meet Ya! 😧I'm Win K 👋
 
 <p>
   <b>Originally, I majored in political science at Korea University.</b><br>
