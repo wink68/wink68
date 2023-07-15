@@ -1,7 +1,10 @@
-<div align="center"> 
-<img src="https://user-images.githubusercontent.com/108077414/181139588-ff9d400a-a02a-4edd-b811-a28cdc0e09c5.jpg" width="80%" />
+<div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/108077414/181139588-ff9d400a-a02a-4edd-b811-a28cdc0e09c5.jpg" width="80%" />
+</div>
+<br>
 
-# Nice to Meet Ya! I'm Win K 👋
+<h1>Nice to Meet Ya! I'm Chang-min Kim 👋</h1>
 
 <p>
   <b>Originally, I majored in political science at Korea University.</b><br>
@@ -12,30 +15,71 @@
 </p>
 <br>
 
-<h2>📚 Tech Studying 📚</h2>
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+<h2>💻 Tech Stack</h2>
+<h3>📚 Stack</h3>
+<p> 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-square&logo=html5&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-square&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-square&logo=javascript&logoColor=black" />
   <br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-<h3 aline="center">🔧 Tools 🔧</h3>
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&Eclipse%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-square&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-square&logo=Typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/redux-593d88?style=for-square&logo=redux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-square&logo=styled-components&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-square&logo=mui&logoColor=white" />&nbsp
 </p>
 <br>
 
-<h2>🌈 Follow Me 🌈</h2>
+<h3>🔧 Tools</h3>
 <p>
-<a href="mailto:jintack@naver.com"><img src="https://img.shields.io/badge/email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinttack@naver.com"/></a>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-square&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-square&logo=GitHub&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-square&logo=Visual Studio Code&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-square&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-square&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-square&logo=slack&logoColor=white" />
 </p>
 <br>
 
+<h3>🔬 Interested in</h3>
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emotion-hotpink?style=for-square" />
+</p>
+<br>
+
+<h2>🎨 Project</h2>
+<h3><a href="http://weching.shop">[팀 프로젝트] WeChing</a></h3>
+<ul>
+  <li>기간 : 2022.12.12 ~ 2022.12.30</li>
+  <br>
+  <li>Link
+    <ul>
+      <br>
+      <li>Service : http://weching.shop</li>
+      <br>
+      <li>GitHub : https://github.com/we-ching</li>
+    </ul>
+  </li>
+</ul>
+<br>
+
+<h2>🎓 Education</h2>
+<ul>
+  <li>(2019.03 ~ 2022.02) 고려대학교 정치외교학과 석사 졸업</li>
+  <br>
+  <li>(2022.09 ~ 2022.12) 엘리스 SW엔지니어 트랙 3기 수료</li>
+</ul>
+<br>
+
+<h2>🌈 Contact 🌈</h2>
+<p>
+  <a href="https://valueengine.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-square&logo=blogger&logoColor=white" /></a>&nbsp
+  <a href="mailto:jintack@naver.com"><img src="https://img.shields.io/badge/email-d14836?style=for-square&logo=Gmail&logoColor=white&link=jinttack@naver.com"/></a>
+</p>
+<br>
+<br>
 
 <h2>💻 My Github Stats and Endeavor 💻</h2>
 
@@ -48,50 +92,7 @@
 
 </div>
 <br>
-<hr>
 <br>
-
-## 🌿 School & Activity
- - (2019.03 ~ 2022.02) 고려대학교 정치외교학과 석사 졸업   
- 
- - (2022) BK21사업 참여 (파이썬 강의 수강)   
- 
- - (2022.05 ~ ) 웹 개발 공부 (독학 및 스터디)   
- 
- - (2022.09 ~ ) 엘리스 SW엔지니어 트랙 3기
-<br>
-
-## ✨ Interest
- - Languages
-   - Python
-   - Java
-   - Javascript
-
- - Problem Solving
-   - [Baekjoon](https://www.acmicpc.net/user/jinttack)   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinttack)](https://solved.ac/jinttack)
-   - programmers
-   - Codeup
-<br>
-
-## 📕 Materials studying   
- - HTML+CSS+Javascript
-   - [HTML+CSS+자바스크립트 웹 표준의 정석](https://www.youtube.com/watch?v=XdFWx0lO5B4&list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is)   
-   
- - JAVA
-   - [Do it! 자바 완전정복](https://www.youtube.com/watch?v=jALoE5BGFls&list=PLG7te9eYUi7toebNnbA1cZNRDoUcHmsGd)
-   - [남궁성 자바의 정석](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp)
-   
- - Python
-   - [Do it! 점프 투 파이썬 (조코딩)](https://www.youtube.com/watch?v=KL1MIuBfWe0&list=PLU9-uwewPMe2AX9o9hFgv-nRvOcBdzvP5)
-<br>
-
-## 💬 Contacts
-  - [e-mail](mailto:jinttack@naver.com)
-
-<br>
-<hr>
 
 <div align="center">
 
