@@ -50,7 +50,7 @@
 <br>
 
 <h2>🎨 Project</h2>
-<h3><a href="http://weching.shop">[팀 프로젝트] WeChing</a></h3>
+<h3>[팀 프로젝트] WeChing</h3>
 <ul>
   <li>기간 : 2022.12.12 ~ 2022.12.30</li>
   <br>
@@ -60,6 +60,21 @@
       <li>Service : http://weching.shop</li>
       <br>
       <li>GitHub : https://github.com/we-ching</li>
+    </ul>
+  </li>
+</ul>
+<br>
+
+<h3>[개인 프로젝트] To Do List App</h3>
+<ul>
+  <li>기간 : 2023.4.28 ~ 2023.5.8</li>
+  <br>
+  <li>Link
+    <ul>
+      <br>
+      <li>Service : https://wink68.github.io/JS_Chrome_App/</li>
+      <br>
+      <li>GitHub : https://github.com/JS_Chrome_App</li>
     </ul>
   </li>
 </ul>
