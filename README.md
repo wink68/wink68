@@ -59,7 +59,7 @@
       <br>
       <li>Service : http://weching.shop</li>
       <br>
-      <li>GitHub : https://github.com/we-ching</li>
+      <li>GitHub : https://github.com/wink68/we-ching</li>
     </ul>
   </li>
 </ul>
@@ -74,7 +74,7 @@
       <br>
       <li>Service : https://wink68.github.io/JS_Chrome_App/</li>
       <br>
-      <li>GitHub : https://github.com/JS_Chrome_App</li>
+      <li>GitHub : https://github.com/wink68/JS_Chrome_App</li>
     </ul>
   </li>
 </ul>
