@@ -59,7 +59,7 @@
       <br>
       <li>Service : http://weching.shop</li>
       <br>
-      <li>GitHub : https://github.com/wink68/we-ching</li>
+      <li>GitHub : https://github.com/we-ching</li>
     </ul>
   </li>
 </ul>
