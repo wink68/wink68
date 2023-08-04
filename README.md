@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/React-20232a?style=for-square&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-square&logo=Typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redux-593d88?style=for-square&logo=redux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-square&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-square&logo=styled-components&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MUI-0081CB?style=for-square&logo=mui&logoColor=white" />&nbsp
 </p>
